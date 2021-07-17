@@ -1,0 +1,30 @@
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.exe.config
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.exe
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.pdb
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.csprojResolveAssemblyReference.cache
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker_Scanner.Form1.resources
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker_Scanner.Properties.Resources.resources
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.csproj.GenerateResource.Cache
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.exe
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.pdb
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker_Scanner.option.resources
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker_Scanner.Port_scanning.resources
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.exe.manifest
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.application
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.exe.manifest
+C:\Users\haide\Documents\Visual Studio 2013\Projects\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.application
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.exe.config
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.exe
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.pdb
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.exe.manifest
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.application
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.exe
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\bin\Debug\Netwroker Scanner.pdb
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.csprojResolveAssemblyReference.cache
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker_Scanner.Form1.resources
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker_Scanner.option.resources
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker_Scanner.Port_scanning.resources
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker_Scanner.Properties.Resources.resources
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.csproj.GenerateResource.Cache
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.exe.manifest
+C:\Users\haide\Desktop\Netwroker Scanner\Netwroker Scanner\obj\Debug\Netwroker Scanner.application
